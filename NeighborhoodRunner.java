@@ -19,3 +19,4 @@ public class NeighborhoodRunner {
     //uses the PaintEyes method which will paint the eyes purple because we put the argument "Purple"
 
   }
+}
