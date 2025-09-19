@@ -6,4 +6,5 @@ This project draws an 8x8 enderman on the screen. I use 2 different classes to d
 
 
 **Reflection**
+
 If I had more time I would make this image more detailed and make more methods to make the code more simple. 
